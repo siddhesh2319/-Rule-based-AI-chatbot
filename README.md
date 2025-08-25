@@ -21,6 +21,7 @@ A simple **rule-based chatbot** built with Python. It responds to user queries u
    cd rule-based-ai-bot
 
 2.Run the chatbot:
+
       rule_based_AI_bot.py
 
 
